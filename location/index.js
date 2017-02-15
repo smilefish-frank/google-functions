@@ -1,4 +1,4 @@
-var location = require('./node-library/location/location');
+var location = require('node-library/location/location');
 
 exports.getLocationsHTTP = function getLocationsHTTP(req, res) 
 {
