@@ -1,7 +1,4 @@
 {
   "name": "location-functions",
-  "version": "0.0.1",
-  "dependencies": {
-    "@brandify/location": "^1.0.1"
-  }
+  "version": "0.0.1"
 }
