@@ -1,6 +1,6 @@
 var location = require('node-library/location/location');
 
-exports.getLocationsHTTP = function getLocationsHTTP(req, res) 
+exports.getLocation = function getLocation(req, res) 
 {
   res.setHeader('Content-Type', 'application/json');
   var json = location.getLocation("myId");
